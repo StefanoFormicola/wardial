@@ -1,7 +1,7 @@
 # Wardial
 
-![](https://github.com/StefanoFormicola/wardial/workflows/task1/badge.svg)(https://github.com/StefanoFormicola/wardial/actions?query=workflow%3Atests)
-![](https://github.com/StefanoFormicola/wardial/workflows/task2/badge.svg)(https://github.com/StefanoFormicola/wardial/actions?query=workflow%3Atests)
+![](https://github.com/StefanoFormicola/wardial/workflows/task1/badge.svg)
+![](https://github.com/StefanoFormicola/wardial/workflows/task2/badge.svg)
 
 
 **Learning Objectives:**
